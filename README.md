@@ -1,13 +1,9 @@
-<img width="80%" align="center" src="https://github.com/Dorota1997/react-frontend-dev-portfolio/blob/images/images/portfolio_mockup.png" alt="portfolio template mockup" /> <br/>
-<img height="350px" align="right" src="https://github.com/Dorota1997/react-frontend-dev-portfolio/blob/images/images/mobile-demo.gif" alt="portfolio mobile demo gif"/>
-
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/react.svg" height="50" alt="react icon"/>
 <h2>Portfolio Template</h2>
 
 <pre>
-⭐ Easy to adapt and deploy portfolio project covering most important 
-sections(about, exp, skills, projects), inspired with solutions found 
-at GitHub. Check live preview(link below).
+⭐ This is my  portfolio project covering most important 
+sections(about, exp, skills, projects), please cheak out and if you have any suggestion  let me know that would be helpfull
 </pre>
 
 <strong>:crown: advantages</strong>
@@ -26,12 +22,7 @@ at GitHub. Check live preview(link below).
 <a href="https://www.w3docs.com/snippets/css/how-to-create-polaroid-image-with-css.html#">Polaroid effect</a> <br/>
 <a href="https://tholman.com/github-corners/">GitHub Ref Corner</a>
 
-<h3>:memo: Changelog</h3>
 
-
-<details>
-<summary>[ 29/30.11.2020, contributor: <a href="https://github.com/trolit">@trolit</a> ]</summary>
-<pre>
 - changed resume files names to more "universal"
 - moved languages names to global variables
 - moved section names to json files
@@ -57,8 +48,6 @@ at GitHub. Check live preview(link below).
 </pre>
 </details>
 
-<h3>:gear: Contribution</h3>
 
-If you have any suggestions on what to improve in <em>react-frontend-dev-portfolio</em> and would like to share them, feel free to leave an issue or fork project to implement your own ideas :slightly_smiling_face:
 
 
