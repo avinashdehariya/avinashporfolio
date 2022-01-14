@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/avinashdehariya/portfolio/static/css/main.db6f0745.chunk.css",
+    "main.js": "/avinashdehariya/portfolio/static/js/main.3ecc083b.chunk.js",
+    "main.js.map": "/avinashdehariya/portfolio/static/js/main.3ecc083b.chunk.js.map",
+    "runtime-main.js": "/avinashdehariya/portfolio/static/js/runtime-main.d1128f82.js",
+    "runtime-main.js.map": "/avinashdehariya/portfolio/static/js/runtime-main.d1128f82.js.map",
+    "static/css/2.d64471e2.chunk.css": "/avinashdehariya/portfolio/static/css/2.d64471e2.chunk.css",
+    "static/js/2.daaa2b12.chunk.js": "/avinashdehariya/portfolio/static/js/2.daaa2b12.chunk.js",
+    "static/js/2.daaa2b12.chunk.js.map": "/avinashdehariya/portfolio/static/js/2.daaa2b12.chunk.js.map",
+    "index.html": "/avinashdehariya/portfolio/index.html",
+    "precache-manifest.b10260e213565341bed24ebebd128dd9.js": "/avinashdehariya/portfolio/precache-manifest.b10260e213565341bed24ebebd128dd9.js",
+    "service-worker.js": "/avinashdehariya/portfolio/service-worker.js",
+    "static/css/2.d64471e2.chunk.css.map": "/avinashdehariya/portfolio/static/css/2.d64471e2.chunk.css.map",
+    "static/css/main.db6f0745.chunk.css.map": "/avinashdehariya/portfolio/static/css/main.db6f0745.chunk.css.map",
+    "static/js/2.daaa2b12.chunk.js.LICENSE.txt": "/avinashdehariya/portfolio/static/js/2.daaa2b12.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1128f82.js",
+    "static/css/2.d64471e2.chunk.css",
+    "static/js/2.daaa2b12.chunk.js",
+    "static/css/main.db6f0745.chunk.css",
+    "static/js/main.3ecc083b.chunk.js"
+  ]
+}

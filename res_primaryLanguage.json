@@ -1,0 +1,143 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Avinash. Fictional person for preview purposes :) I'm working with newest front-end frameworks like  React and Vue. What you are seeing now is my portfolio  . If you like this portfolio  make sure to ⭐ the repository to make it more recognizable for other users. Thank You 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": " Amazon scrapper",
+        "startDate": "2021",
+        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "images": [
+          "images/portfolio/animal-shelter/project1.png",
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "react"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "node.js"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "express"
+          },
+          {
+            "class": "devicon-rest-plain",
+            "name": "restAPI"
+          }
+        ]
+      },
+      {
+        "title": "MEMORIES",
+        "startDate": "2021",
+        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "RESTORATION",
+        "startDate": "2020",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation React navitaion routing . This was also my first project in React Native. I've learned a lot!",
+        "images": [
+          "images/portfolio/adventure/pp1.jpg",
+          "images/portfolio/adventure/pp2.jpg",
+          "images/portfolio/adventure/pp3.jpg",
+          "images/portfolio/adventure/pp4.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "React.js"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "React navigation"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "firebase"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "crisp",
+        "title": "Internship& traning",
+        "years": "04.2021 - 10.2021",
+        "mainTech": [
+          "Mern stack"
+        ],
+        "technologies": [
+          "JavaScript",
+          "ReactJS",
+          "node.js",
+          "REST API",
+          "express",
+          "redux",
+          "Bootstrap",
+          "styled components",
+          "mongodb",
+          "mongoose"
+        ]
+      },
+      {
+        "company": "orions Itsolution ",
+        "title": "Front-End Developer",
+        "years": "10.2020 ",
+        "mainTech": [
+          "React-native app 8/9/10"
+        ],
+        "technologies": [
+          "REST API",
+          "ReactJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "firebase",
+          "react material"
+        ]
+      },
+      {
+        "company": "crisp",
+        "title": "Internship& traning",
+        "years": "03.2019 - 09.2019",
+        "mainTech": [
+          "Python programming"
+        ],
+        "technologies": [
+          "python",
+          "Django",
+          "aws",
+          "html,css"
+        ]
+        
+      }
+    ]
+  }
